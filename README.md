@@ -1,5 +1,5 @@
-📊 Customer Churn Analysis & Prediction
-📌 Project Overview
+### 📊 Customer Churn Analysis & Prediction
+## 📌 Project Overview
 
 Customer churn is a major challenge for businesses that rely on recurring customers. This project focuses on cleaning, analyzing, and modeling customer data to understand why customers leave and to predict churn before it happens.
 
@@ -19,7 +19,7 @@ The final outcome is a predictive churn model supported by clear business insigh
 ├── CHURN_MODELLING.ipynb
 └── README.md
 
-🧹 Data Cleaning & Preparation
+# 🧹 Data Cleaning & Preparation
 
 Notebook: Data_Cleaning.ipynb
 
@@ -47,7 +47,7 @@ Outcome
 
 A clean, structured dataset ready for exploratory analysis and machine learning.
 
-🔍 Exploratory Data Analysis (EDA)
+# 🔍 Exploratory Data Analysis (EDA)
 
 Notebook: Exploratory_Data_Analysis_(EDA)_–_Churn_Insights.ipynb
 
@@ -77,7 +77,7 @@ Certain demographics and usage behaviors strongly correlate with churn
 
 Behavioral and service-related features are key churn drivers
 
-🤖 Churn Modeling
+# 🤖 Churn Modeling
 
 Notebook: CHURN_MODELLING.ipynb
 
