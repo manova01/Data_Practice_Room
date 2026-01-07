@@ -50,9 +50,3 @@ This project analyzes customer churn for a telecommunications company using mach
 - pandas, numpy, scikit-learn
 - matplotlib, seaborn
 - jupyter
-
-## 🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
